@@ -1,3 +1,8 @@
+
+puts "Enter your number"
+a = gets.to_s.split 
+
+
 def addition(num1, num2)
 
 end
